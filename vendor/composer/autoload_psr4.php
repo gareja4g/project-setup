@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Projects\\Setup\\' => array($baseDir . '/src'),
+    'LaraProj\\Setup\\' => array($baseDir . '/src'),
 );
